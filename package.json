@@ -1,0 +1,18 @@
+{
+  "name": "ionic",
+  "version": "1.3.7",
+  "description": "Ionic Framework v1 (fork of ionic-team/ionic-bower for installation directly from GitHub via npm).",
+  "homepage": "https://github.com/ionic-team/ionic-v1",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jusahyvarinen/ionic-bower.git"
+  },
+  "files": [
+    "css",
+    "fonts",
+    "js",
+    "scss",
+    "bower.json"
+  ]
+}
